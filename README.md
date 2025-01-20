@@ -1,7 +1,7 @@
 ### Hi there 👋
 # 💫About Me :
- 🇩🇪 Hey, i am from Germany, 22 years old
-💻 COBOL, C++, Python, Java, Kotlin
+ 🇩🇪 Hey, i am from Germany, 23years old
+💻 COBOL, C++, Python
 🕹️ Real-time strategy, Shooter, Indie
 
 ## 🌐Socials
